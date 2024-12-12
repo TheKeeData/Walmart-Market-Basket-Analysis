@@ -19,7 +19,7 @@ Market Basket Analysis (MBA) is a powerful retail analytics technique used to id
 
 [Conclusion](#Conclusion)
 
-[Appendix: DAX Measures](#Appendix-:-DAX-Measures)
+[Appendix: DAX Measures](#Appendix-DAX-Measures)
 
 [Interactive Dashboard](#Interactive-Dashboard)
 
